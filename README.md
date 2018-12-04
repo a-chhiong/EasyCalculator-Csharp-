@@ -7,16 +7,12 @@ Directory Tree
 ---
 * drawable : vector images
 * layout : xml files
-* newscast
-  * activity : android activities
-  * handle : all the thread / async task related stuff
-  * service : android services
-  * model : data model
-  * orphanage : abandoned codes
-  * adapter : customised list view
-  * assets : sqlite stuff
 * values : shared values of colors and strings
+
+* Console : windows console
+* Form : windwos form
+* Library : core logic lib
 
 Snapshot
 ---
-[click me for android snapshot](https://www.dropbox.com/sh/a970rnj32slztha/AABy6oW4_eyuFoqiL21O3VaIa "android's snapshot")
+[click me for snapshot](https://www.dropbox.com/sh/b4r1pfmgix1z6g2/AADXA7iRsjavIhavIPS8N0jva "snapshot")
