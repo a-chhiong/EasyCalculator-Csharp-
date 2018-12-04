@@ -5,10 +5,6 @@
 
 Directory Tree
 ---
-* drawable : vector images
-* layout : xml files
-* values : shared values of colors and strings
-
 * Console : windows console
 * Form : windwos form
 * Library : core logic lib
